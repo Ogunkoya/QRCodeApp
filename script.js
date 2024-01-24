@@ -32,7 +32,7 @@ function loadUserData() {
     // This function should populate the userData array
     // For simplicity, I'll use a static example here
     userData = [
-        { username: 'user1', codes: ['XP 1000000000001', 'XP 1000000000002', 'XP 1000000000003'] },
+        { username: 'judeogwu@yahoo.com', codes: ['XP 1000000000001', 'XP 1000000000002', 'XP 1000000000003'] },
         { username: 'user2', codes: ['PP 1000000000001', 'PP 1000000000002', 'PP 1000000000003'] },
         { username: 'user3', codes: ['BB 1000000000001', 'BB 1000000000002', 'BB 1000000000003'] }
     ];
